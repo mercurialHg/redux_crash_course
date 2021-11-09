@@ -1,4 +1,8 @@
-import { FETCH_POSTS, NEW_POST } from './types';
+import { FETCH_POSTS, NEW_POST } from './types'; 
+
+/// exports a function that returns a function (for brevity, which will be named F.)
+/// to understand F., you need to understand how a Component connects to the store
+/// see '../components/Posts.js' and come back
 
 export const fetchPosts = () => dispatch => {
   fetch('https://jsonplaceholder.typicode.com/posts')
