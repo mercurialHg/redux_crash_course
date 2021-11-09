@@ -1,5 +1,9 @@
+Annotated code from [here](https://github.com/bradtraversy/redux_crash_course)
+
 Tutorial [here](https://www.youtube.com/watch?v=w7ejDZ8SWv8)
+
 Channel [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
+
 Thank you, Brad!
 
 # Redux Crash Course
